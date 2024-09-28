@@ -1,0 +1,27 @@
+body{
+    background-color: rgba(186, 210, 30, 0.378);
+}
+.box{
+    margin-bottom: 5px;
+    height: 100px;
+    background-color: brown;
+}
+h3{
+    font-family: sans-serif;
+    font-size: 25px;
+    text-align: center;
+    color: aliceblue;
+}
+
+.icon{
+color: aliceblue;
+font-size: 60px;
+text-align: center;
+}
+.icon2{
+font-size: 60px;
+text-align: center;
+color: aqua;
+
+
+}
